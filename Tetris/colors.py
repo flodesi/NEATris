@@ -1,0 +1,9 @@
+background = (11, 5, 45)
+background_alt = (21, 10, 87)
+foreground = (28, 199, 114)
+foreground_alt = (77, 200, 233)
+line_color = (105, 141, 151)
+border = (43, 112, 144)
+background_board = background_alt
+fail_color = (190, 69, 69)
+fail_background = (58, 179, 210)
